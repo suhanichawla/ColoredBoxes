@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.hw{
+  height:155px;
+  width:155px;
+  display: inline-block;
+  /* background-color: aqua; */
+  
+}
+body{
+  margin-left:auto;
+  /* background-color: black; */
+}
+.App{
+  min-width: 100%;
+  /* display: flex;
+  flex-wrap: wrap; */
 }
